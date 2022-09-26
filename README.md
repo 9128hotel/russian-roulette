@@ -1,6 +1,6 @@
 # Project Information
 
-Russian roulette written in rust. Fun game to play with friend!
+Russian roulette, a fun game to play with friend!
 
 # Version Info
 
